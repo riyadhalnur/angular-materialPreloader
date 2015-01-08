@@ -1,0 +1,28 @@
+{
+  "name": "angular-materialPreloader",
+  "version": "1.0.0",
+  "main": "preloader.js",
+  "homepage": "http://riyadhalnur.github.io/angular-materialpreloader/",
+  "authors": [
+    "Riyadh Al Nur <riyadhalnur@verticalaxisbd.com>"
+  ],
+  "description": "An Angular directive based on the jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).",
+  "ignore": [
+    "demo",
+    "node_modules",
+    "bower_components"
+  ],
+  "keywords": [
+    "AngularJS",
+    "jQuery",
+    "Material Design",
+    "Google",
+    "Preloader",
+    "HTML5"
+  ],
+  "license": "GPLv3",
+  "dependencies": {
+    "Material-Preloader": "https://github.com/aarondo/Material-Preloader/archive/master.zip",
+    "angular": ">=1.2.0"
+  }
+}

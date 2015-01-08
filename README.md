@@ -4,7 +4,7 @@
 An Angular directive based on the jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).  
 
 ## INSTALLATION  
-`bower install angular-materialPreloader --save-dev`  
+`bower install angular-material-preloader --save-dev`  
 
 ## REQUIREMENTS
 This package depends on the Material-Preloader jQuery plugin to work. Include it from the `bower_components` folder in this package or download it from [here](http://git.aaronlumsden.com/material/) and include it yourself.  
@@ -12,8 +12,8 @@ This package depends on the Material-Preloader jQuery plugin to work. Include it
 ```  
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
-<script src="../js/materialPreloader.js"></script>
-<script src="../preloader.js"></script>  
+<script src="/bower_components/bower_components/Material-Preloader/js/materialPreloader.js"></script>
+<script src="/bower_components/preloader.js"></script>  
 ```
 
 ## USAGE  
